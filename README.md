@@ -1,2 +1,2 @@
 # vdenclue
-VDENCLUE
+Variable Kernal Density Estimation Based DENsity CLUstEring (VDENCLUE)
